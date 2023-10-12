@@ -36,3 +36,4 @@ Codifica los siguientes endpoints HTTP sobre el API:
 El resto de endpoints de nuestra API (CRUD de Posts) tienen autenticación y devuelven código HTTP 401 ante peticiones no autenticadas.
 
 # Utiliza un cliente HTTP cómo POSTMAN para hacer pruebas de peticiones a los diferentes endpoints.
+# servidores-actividad4
